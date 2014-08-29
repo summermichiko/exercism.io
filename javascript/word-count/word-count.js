@@ -5,6 +5,4 @@ var words = function(phrase) {
 }
 
 
-nested for loops with if statement
-push to array
-increment count
+test
